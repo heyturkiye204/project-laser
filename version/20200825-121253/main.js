@@ -33560,7 +33560,7 @@ parcelRequire = function (t, e, i, n) {
             __class__: dn
         });
         var fn = function () {
-            this.$F_ = [_n.Prompt("C:\\8-BIT>", "Hello 8-Bit. Welcome to 8-Bit.", !1), _n.Newline, _n.Line("Bad or missing C:\\Who.exe"), _n.Line("Bad or missing C:\\Whatis8bit.exe"), _n.Newline, _n.Line("Truth lies inside medium density fiberboard."), _n.Newline, _n.Line("To extract or compress truth"), _n.Line("Error in CONFIG.SYS line 86"), _n.Newline, _n.Newline, _n.Line("It eats at your soul."), _n.Newline, _n.Prompt("Reading source file(s)", " ....", !1), _n.Prompt("C:\\LOG>", "echo lies.log", !1), _n.Line("Your nagging psyche keeps you from discovering who and what you truly are. "), _n.Newline, _n.Loader("$PROGRESS Memory Restored"), _n.Newline, _n.Line("Warning! You will now enter the memory core of 8-Bit."), _n.Line("Do you want to continue the program?"), _n.Prompt("[Y] [Y] ", "Y", !0)],
+            this.$F_ = [_n.Prompt(":)", "Merhaba, 8-Bit'in oyununa hoşgeldin.", !1), _n.Newline, _n.Line("Şuan hemen gerekli paketleri yüklüyorum..."), _n.Line("Eğer ki mobildeysen bu sitenin üzerine tıklaman yeterlidir."), _n.Newline, _n.Line("Umarım iyi nostalji yaşarsınız, iyi oyunlar dilerom."), _n.Newline, _n.Line("To extract or compress truth"), _n.Line("Error in CONFIG.SYS line 86"), _n.Newline, _n.Newline, _n.Line("It eats at your soul."), _n.Newline, _n.Prompt("Son Yükleme:", " ....", !1), _n.Prompt("C:\\LOG>", "echo lies.log", !1), _n.Line("Your nagging psyche keeps you from discovering who and what you truly are. "), _n.Newline, _n.Loader("$PROGRESS yapan: heytürkiye "), _n.Newline, _n.Line("Warning! You will now enter the memory core of 8-Bit."), _n.Line("Do you want to continue the program?"), _n.Prompt("[Y] [Y] ", "Y", !0)],
             this.$f_ = "",
             this.$E_ = 0,
             this.$V = 0,
@@ -33801,20 +33801,20 @@ parcelRequire = function (t, e, i, n) {
             var t;
             if (Ro.trackEvent("redirect", "exit"), xn.isNativeChinese())
                 if (PIXI.utils.isMobile.android.device)
-                    t = "https://brawlstars.com";
+                    t = "https://heyturkiyeprojectlazer.netlify.app/";
                 else
                     switch (En.language) {
                     case "cn_cn":
-                        t = "https://link.brawlstars.cn/cn";
+                        t = "https://heyturkiyeprojectlazer.netlify.app/";
                         break;
                     case "cn_en":
-                        t = "https://link.brawlstars.cn/en";
+                        t = "https://heyturkiyeprojectlazer.netlify.app/";
                         break;
                     default:
-                        t = "https://link.brawlstars.cn/cn"
+                        t = "https://heyturkiyeprojectlazer.netlify.app/"
                     }
             else
-                t = "https://link.brawlstars.com/" + En.language;
+                t = "https://heyturkiyeprojectlazer.netlify.app/" + En.language;
             e.location.href = t
         };
         var En = function () {};
