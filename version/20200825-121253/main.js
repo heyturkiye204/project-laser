@@ -33560,7 +33560,9 @@ parcelRequire = function (t, e, i, n) {
             __class__: dn
         });
         var fn = function () {
-            this.$F_ = [_n.Prompt("C://", "Merhaba, 8-Bit'in oyununa hoşgeldin.", !1), _n.Newline, _n.Line("Bu oyunda Supercell'in yaptığı Project Lazer oyununun bir kopyasını oynayacaksınız.<br><br> Umarım iyi nostalji yaşarsınız, iyi oyunlar dilerim."), _n.Line("Eğer ki mobildeysen bu sitenin üzerine tıklaman yeterlidir."), _n.Newline, _n.Line(""), _n.Newline, _n.Line("Oyun 3 aşamadan oluşmaktadır."), _n.Line("Her 3 aşamada zorluklar sizi bekliyor."), _n.Newline, _n.Newline, _n.Line("Robotlara karşı lütfen kendinize dikkat edin."), _n.Newline, _n.Prompt("Meteor taşlarına dikkat etmelisiniz.", "<br><br>Umarım oynarsın yani :)", !1), _n.Prompt("C:", "[text hazırlanıyor]", !1), _n.Line("[2. text hazırlanıyor]"), _n.Newline, _n.Loader("$PROGRESS yükleniyor..."), _n.Newline, _n.Line("[3. text hazırlanıyor]"), _n.Line("şimdi oyuna tıklayabilirsin."), _n.Prompt("[Y] [Y] ", "Y", !0)],
+            this.$F_ = [_n.Prompt("C://", "Merhaba, 8-Bit'in oyununa hoşgeldin.", !1), _n.Newline, _n.Line("Bu oyunda Supercell'in yaptığı Project Lazer oyununun bir kopyasını oynayacaksınız.
+            Umarım iyi nostalji yaşarsınız, iyi oyunlar dilerim."), _n.Line("Eğer ki mobildeysen bu sitenin üzerine tıklaman yeterlidir."), _n.Newline, _n.Line(""), _n.Newline, _n.Line("Oyun 3 aşamadan oluşmaktadır."), _n.Line("Her 3 aşamada zorluklar sizi bekliyor."), _n.Newline, _n.Newline, _n.Line("Robotlara karşı lütfen kendinize dikkat edin."), _n.Newline, _n.Prompt("Meteor taşlarına dikkat etmelisiniz.", "
+            Umarım oynarsın yani :)", !1), _n.Prompt("C:", "[text hazırlanıyor]", !1), _n.Line("[2. text hazırlanıyor]"), _n.Newline, _n.Loader("$PROGRESS yükleniyor..."), _n.Newline, _n.Line("[3. text hazırlanıyor]"), _n.Line("şimdi oyuna tıklayabilirsin."), _n.Prompt("[Y] [Y] ", "Y", !0)],
             this.$f_ = "",
             this.$E_ = 0,
             this.$V = 0,
