@@ -33802,7 +33802,7 @@ parcelRequire = function (t, e, i, n) {
             var t;
             if (Ro.trackEvent("redirect", "exit"), xn.isNativeChinese())
                 if (PIXI.utils.isMobile.android.device)
-                    t = "https://heyturkiyeprojectlazer.netlify.app/";
+                    t = "https://projectlaser.netlify.app/";
                 else
                     switch (En.language) {
                     case "cn_cn":
