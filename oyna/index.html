@@ -217,5 +217,21 @@
     <noscript> Enable JavaScript to play this game. </noscript>
     <script src="main.js"></script>
     <script></script>
+    <script>
+    // Sayfa yüklendiğinde çalışacak kod
+window.onload = function() {
+    // Mevcut URL'yi al
+    var currentURL = window.location.href;
+
+    // Eğer URL ".html" ile bitiyorsa
+    if (currentURL.endsWith(".html")) {
+        // ".html" kısmını kaldır
+        var newURL = currentURL.slice(0, -5);
+
+        // Yeni URL'ye yönlendir
+        window.location.href = newURL;
+    }
+};
+    </script>
   </body>
 </html>
