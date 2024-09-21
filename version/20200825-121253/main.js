@@ -33806,16 +33806,16 @@ parcelRequire = function (t, e, i, n) {
                 else
                     switch (En.language) {
                     case "cn_cn":
-                        t = "https://heyturkiyeprojectlazer.netlify.app/";
+                        t = "https://projectlaser.netlify.app/";
                         break;
                     case "cn_en":
-                        t = "https://heyturkiyeprojectlazer.netlify.app/";
+                        t = "https://projectlaser.netlify.app/";
                         break;
                     default:
-                        t = "https://heyturkiyeprojectlazer.netlify.app/"
+                        t = "https://projectlaser.netlify.app/"
                     }
             else
-                t = "https://heyturkiyeprojectlazer.netlify.app/";
+                t = "https://projectlaser.netlify.app/";
             e.location.href = t
         };
         var En = function () {};
