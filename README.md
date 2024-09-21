@@ -1,4 +1,4 @@
-<img width="720" src="https://heyturkiyeprojectlazer.netlify.app/kapak.png" />
+<img width="720" src="https://projectlaser.netlify.app/kapak.png" />
 
 -------
 # 🎮 • Project Laser
